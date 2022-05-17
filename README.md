@@ -1,5 +1,5 @@
 ### ▶️ Fala devs, tudo bem? 👋😎
-- Me chamo Álisson Oliveira e tenho 27 anos de idade. 
+- Me chamo Álisson Oliveira e tenho 28 anos de idade. 
 - Sou Mestre em Neuroengenharia & Bacharel em Ciência da Computação. 📚
 - No momento trabalho como Professor Substituto no Instituto Federal do Rio Grande do Norte - *Campus Currais Novos* na área de Sistemas para Internet e Professor Temporário na área de Informática na Secretaria de Estado da Educação, da Cultura, do Esporte e do Lazer na Cidade de São Vicente - RN. 👨‍🏫
 - Atualmente estou em transição de carreira, buscando recolocação no mercado de programação, buscando oportunidades como Desenvolvedor de Software Júnior (Web 🖥️ & Mobile 📲). 
