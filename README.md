@@ -1,15 +1,9 @@
 ### ▶️ Fala devs, tudo bem? 👋😎
-- Me chamo Álisson Oliveira e tenho 28 anos de idade. 
-- Sou Mestre em Neuroengenharia & Bacharel em Ciência da Computação. 📚
-- No momento trabalho como Professor Substituto no Instituto Federal do Rio Grande do Norte - *Campus Currais Novos* na área de Sistemas para Internet e Professor Temporário na área de Informática na Secretaria de Estado da Educação, da Cultura, do Esporte e do Lazer na Cidade de São Vicente - RN. 👨‍🏫
-- Atualmente estou em transição de carreira, buscando recolocação no mercado de programação, buscando oportunidades como Desenvolvedor de Software Júnior (Web 🖥️ & Mobile 📲). 
 
-##
+- Me chamo Álisson Oliveira e tenho 28 anos de idade.
+-- Possuo Mestrado em Neuroengenharia & Bacharelado em Ciência da Computação. 📚
 
-### ✅ Objetivos para 2022
-- Conseguir minha primeira vaga como desenvolvedor.
-- Me capacitar continuamente durante todo ano na área de desenvolvimento de software.
-- Transformar todo o conhecimento adquirido por meio dos cursos e capacitações técnicas em aulas dinâmicas e atrativas para os meus alunos do IFRN e da SEEC.
+👨‍🏫 Atualmente sou Desenvolvedor de Software Pleno I na @insole Energia Solar e Professor no Instituto Federal do Rio Grande do Norte - Campus Currais Novos na área de Sistemas para Internet.
 
 ## 
 ### 🧠 Principais tecnologias que tenho estudado nos últimos meses & Estatísticas do repositórios.
