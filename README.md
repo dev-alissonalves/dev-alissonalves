@@ -1,6 +1,6 @@
 ### ▶️ Fala devs, tudo bem? 👋😎
 
-- Me chamo Álisson Oliveira e tenho 28 anos de idade.
+- Me chamo Álisson Oliveira e tenho 29 anos de idade.
 -- Possuo Mestrado em Neuroengenharia & Bacharelado em Ciência da Computação. 📚
 
 👨‍🏫 Atualmente sou Desenvolvedor de Software Pleno I na @insole Energia Solar e Professor no Instituto Federal do Rio Grande do Norte - Campus Currais Novos na área de Sistemas para Internet.
