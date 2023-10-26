@@ -15,10 +15,10 @@
 </div>
   <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Dev-AlissonAlves-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-     <img align="center" alt="Dev-AlissonAlves-PANDAS" height="30" width="40" src=" https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+     <img align="center" alt="Dev-AlissonAlves-PANDAS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
     <img align="center" alt="Dev-AlissonAlves-NUMPY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
     <img align="center" alt="Dev-AlissonAlves-OpenCV" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg">
-  <img align="center" alt="Dev-AlissonAlves-LINUX" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg)">
+  <img align="center" alt="Dev-AlissonAlves-LINUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="Dev-AlissonAlves-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="Dev-AlissonAlves-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
