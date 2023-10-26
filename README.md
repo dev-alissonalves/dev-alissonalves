@@ -1,10 +1,13 @@
-### ▶️ Fala devs, tudo bem? 👋😎
+### ▶️ Fala devs, tudo bem? 👋😎 
+### Me chamo Álisson Oliveira e tenho 29 anos de idade.
 
-- Me chamo Álisson Oliveira e tenho 29 anos de idade.
-  
--- Atualmente sou Doutorando em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte na área de Processamento Inteligente da Informação. Possuo Mestrado em Neuroengenharia com ênfase em Inteligência Computacional & Bacharelado em Ciência da Computação. 📚
 
-👨‍🏫 Atualmente sou Engenheiro de Software e Tech Lead do grupo de Inteligência Artificial e Machine Learning no Instituto Senai de Inovação (ISI-ER).
+- 📚 Doutorando em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte na área de Processamento Inteligente da Informação.
+- 📚 Licenciatura e Especialização em Docência para Educação Profissional e Tecnológica.
+- 📚 Mestre em Neuroengenharia com ênfase em Inteligência Computacional.
+- 📚 Bacharel em Ciência da Computação & Técnico em Tecnologia da Informação.
+
+👨‍🏫 Atualmente sou Engenheiro de Software e Tech Lead do grupo de Inteligência Artificial e Machine Learning do Instituto Senai de Inovação (ISI-ER).
 
 ## 
 ### 🧠 Principais tecnologias que tenho estudado nos últimos meses & Estatísticas do repositórios.
