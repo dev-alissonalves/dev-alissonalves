@@ -1,9 +1,9 @@
 ### ▶️ Fala devs, tudo bem? 👋😎
 
 - Me chamo Álisson Oliveira e tenho 29 anos de idade.
--- Possuo Mestrado em Neuroengenharia & Bacharelado em Ciência da Computação. 📚
+-- Atualmente sou Doutorando em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte na área de Processamento Inteligente da Informação. Possuo Mestrado em Neuroengenharia com ênfase em Inteligência Computacional & Bacharelado em Ciência da Computação. 📚
 
-👨‍🏫 Atualmente sou Desenvolvedor de Software Pleno I na @insole Energia Solar e Professor no Instituto Federal do Rio Grande do Norte - Campus Currais Novos na área de Sistemas para Internet.
+👨‍🏫 Atualmente sou Engenheiro de Software e Tech Lead do grupo de Inteligência Artificial e Machine Learning no Instituto Senai de Inovação (ISI-ER).
 
 ## 
 ### 🧠 Principais tecnologias que tenho estudado nos últimos meses & Estatísticas do repositórios.
@@ -13,15 +13,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-alissonalves&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-alissonalves&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  
   <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Dev-AlissonAlves-JAVA" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Dev-AlissonAlves-PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Dev-AlissonAlves-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="Dev-AlissonAlves-PANDAS" height="30" width="40" src=" https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
+    <img align="center" alt="Dev-AlissonAlves-NUMPY" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg">
+    <img align="center" alt="Dev-AlissonAlves-OpenCV" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg">
+  <img align="center" alt="Dev-AlissonAlves-LINUX" height="30" width="40" src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg)">
   <img align="center" alt="Dev-AlissonAlves-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Dev-AlissonAlves-ANDROID" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
-  <img align="center" alt="Dev-AlissonAlves-KOTLIN" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Dev-AlissonAlves-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dev-AlissonAlves-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
