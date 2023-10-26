@@ -2,12 +2,14 @@
 ### Me chamo Álisson Oliveira e tenho 29 anos de idade.
 
 
-- 📚 Doutorando em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte na área de Processamento Inteligente da Informação.
-- 📚 Licenciatura e Especialização em Docência para Educação Profissional e Tecnológica.
-- 📚 Mestre em Neuroengenharia com ênfase em Inteligência Computacional.
+## INFORMAÇÕES ACADÊMICAS
+- 📚 Doutorando em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte na área de Processamento Inteligente da Informação;
+- 📚 Licenciatura e Especialização em Docência para Educação Profissional e Tecnológica;
+- 📚 Mestre em Neuroengenharia com ênfase em Inteligência Computacional;
 - 📚 Bacharel em Ciência da Computação & Técnico em Tecnologia da Informação.
 
-👨‍🏫 Atualmente sou Engenheiro de Software e Tech Lead do grupo de Inteligência Artificial e Machine Learning do Instituto Senai de Inovação (ISI-ER).
+## JOB ATUAL (2023)
+👨‍🏫 Engenheiro de Software e Tech Lead do grupo de Inteligência Artificial e Machine Learning do Instituto Senai de Inovação (ISI-ER).
 
 ## 
 ### 🧠 Principais tecnologias que tenho estudado nos últimos meses & Estatísticas do repositórios.
