@@ -9,7 +9,7 @@
 - 📚 Bacharel em Ciência da Computação & Técnico em Tecnologia da Informação.
 
 ## JOB ATUAL (2023)
-👨‍🏫 Engenheiro de Software e Tech Lead do grupo de Inteligência Artificial e Machine Learning do Instituto Senai de Inovação (ISI-ER).
+👨‍🏫 Cientista de Dados e Tech Lead do grupo de Inteligência Artificial e Machine Learning do Instituto Senai de Inovação (ISI-ER).
 
 ## 
 ### 🧠 Principais tecnologias que tenho estudado nos últimos meses & Estatísticas do repositórios.
