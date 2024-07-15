@@ -3,7 +3,7 @@
 
 
 ## INFORMAÇÕES ACADÊMICAS
-- 📚 Doutorando em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte na área de Processamento Inteligente da Informação;
+- 📚 Doutorando no programa de pós-graduação em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte na área de Processamento Inteligente da Informação;
 - 📚 Licenciatura e Especialização em Docência para Educação Profissional e Tecnológica;
 - 📚 Mestre em Neuroengenharia com ênfase em Inteligência Computacional;
 - 📚 Bacharel em Ciência da Computação & Técnico em Tecnologia da Informação.
