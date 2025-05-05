@@ -1,5 +1,5 @@
 ### ▶️ Fala devs, tudo bem? 👋😎 
-### Me chamo Álisson Oliveira e tenho 29 anos de idade.
+### Me chamo Álisson Oliveira e tenho 31 anos de idade.
 
 
 ## INFORMAÇÕES ACADÊMICAS
@@ -8,8 +8,9 @@
 - 📚 Mestre em Neuroengenharia com ênfase em Inteligência Computacional;
 - 📚 Bacharel em Ciência da Computação & Técnico em Tecnologia da Informação.
 
-## JOB ATUAL (2024)
+## JOB ATUAL (2025)
 👨‍🏫 Cientista de Dados e Tech Lead do grupo de Inteligência Artificial e Machine Learning do Instituto Senai de Inovação (ISI-ER).
+👨‍🏫 Cientista de Dados na SERASA Experian / VERX Tecnologia e Inovação.
 
 ## 
 ### 🧠 Principais tecnologias que tenho estudado nos últimos meses & Estatísticas do repositórios.
